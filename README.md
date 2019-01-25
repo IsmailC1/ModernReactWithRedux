@@ -2,7 +2,6 @@
 ## Available Scripts
 
 For running a project you can find necessary code execution commands in the json.js file.
-Here are some 
 
 In the project directory, you can run:
 
